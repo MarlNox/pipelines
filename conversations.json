@@ -1,0 +1,1235 @@
+{
+    "chatcmpl-9W58AAa90OTHQORoCBuQoTx8E5Y5g": {
+        "id": "chatcmpl-9W58AAa90OTHQORoCBuQoTx8E5Y5g",
+        "object": "chat.completion",
+        "created": 1717433246,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "Recent news and updates?"
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 5,
+            "total_tokens": 55
+        },
+        "system_fingerprint": null
+    },
+    "chatcmpl-9W5A8umRlyVreKGQs6e3e5nYMUHw0": {
+        "id": "chatcmpl-9W5A8umRlyVreKGQs6e3e5nYMUHw0",
+        "object": "chat.completion",
+        "created": 1717433368,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "\"Check In on You?\""
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 6,
+            "total_tokens": 56
+        },
+        "system_fingerprint": null
+    },
+    "chatcmpl-9W5B18UENGZM4t5EyqGcEvHcEe5w6": {
+        "id": "chatcmpl-9W5B18UENGZM4t5EyqGcEvHcEe5w6",
+        "object": "chat.completion",
+        "created": 1717433423,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "Family Reunion Location Discussion"
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 50,
+            "completion_tokens": 5,
+            "total_tokens": 55
+        },
+        "system_fingerprint": null
+    },
+    "chatcmpl-9W5E27yQIu8hkdKdrVo5nAftRCVlf": {
+        "id": "chatcmpl-9W5E27yQIu8hkdKdrVo5nAftRCVlf",
+        "object": "chat.completion",
+        "created": 1717433610,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "Information on career choices"
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 48,
+            "completion_tokens": 4,
+            "total_tokens": 52
+        },
+        "system_fingerprint": null
+    },
+    "chatcmpl-9W5HAn4b9N3suTDF2f5L95RXtsioe": {
+        "id": "chatcmpl-9W5HAn4b9N3suTDF2f5L95RXtsioe",
+        "object": "chat.completion",
+        "created": 1717433804,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": "Hello! How can I assist you today? If you have any questions or need information, feel free to ask!",
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ]
+    },
+    "chatcmpl-9W5KUhULVCwmPB2QcqcUcP3NmiLPn": {
+        "id": "chatcmpl-9W5KUhULVCwmPB2QcqcUcP3NmiLPn",
+        "object": "chat.completion",
+        "created": 1717434010,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": "Hello! How can I assist you today?",
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ]
+    },
+    "chatcmpl-9W5N1qKgaZlVLBkBpU1HXqYmBPZjv": {
+        "id": "chatcmpl-9W5N1qKgaZlVLBkBpU1HXqYmBPZjv",
+        "object": "chat.completion",
+        "created": 1717434167,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": "Hello! How can I assist you today?",
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ]
+    },
+    "chatcmpl-9W5PQpjli5Xae8EXM2Xu3t2XcXNRa": {
+        "id": "chatcmpl-9W5PQpjli5Xae8EXM2Xu3t2XcXNRa",
+        "object": "chat.completion",
+        "created": 1717434316,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "Information on Marketing Strategies"
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 47,
+            "completion_tokens": 4,
+            "total_tokens": 51
+        },
+        "system_fingerprint": null
+    },
+    "chatcmpl-9W5PYSBLCDrNltSGSOzsQtpImuzdu": {
+        "id": "chatcmpl-9W5PYSBLCDrNltSGSOzsQtpImuzdu",
+        "object": "chat.completion",
+        "created": 1717434324,
+        "model": "gpt-3.5-turbo-0125",
+        "choices": [
+            {
+                "index": 0,
+                "message": {
+                    "role": "assistant",
+                    "content": "\"Seeking Information on Project\""
+                },
+                "logprobs": null,
+                "finish_reason": "stop"
+            }
+        ],
+        "usage": {
+            "prompt_tokens": 47,
+            "completion_tokens": 7,
+            "total_tokens": 54
+        },
+        "system_fingerprint": null
+    },
+    "convo_10": {
+        "messages": [
+            {
+                "user_message": "Hello, how are you?",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Hello, how are you?"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "conversation_id": null
+                }
+            }
+        ]
+    },
+    "convo_11": {
+        "messages": [
+            {
+                "user_message": "hi",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                    },
+                    {
+                        "role": "user",
+                        "content": "hi"
+                    }
+                ],
+                "body": {
+                    "stream": true,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "system",
+                            "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                        },
+                        {
+                            "role": "user",
+                            "content": "hi"
+                        }
+                    ],
+                    "chat_id": "2a8d9da9-de20-415a-8bd8-4c7ac64af987",
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_12": {
+        "messages": [
+            {
+                "user_message": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                        }
+                    ],
+                    "max_tokens": 50,
+                    "chat_id": "2a8d9da9-de20-415a-8bd8-4c7ac64af987",
+                    "title": true,
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_13": {
+        "messages": [
+            {
+                "user_message": "Whats up with u bro",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                    },
+                    {
+                        "role": "user",
+                        "content": "hi"
+                    },
+                    {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you today?"
+                    },
+                    {
+                        "role": "user",
+                        "content": "Whats up with u bro"
+                    }
+                ],
+                "body": {
+                    "stream": true,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "system",
+                            "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                        },
+                        {
+                            "role": "user",
+                            "content": "hi"
+                        },
+                        {
+                            "role": "assistant",
+                            "content": "Hello! How can I assist you today?"
+                        },
+                        {
+                            "role": "user",
+                            "content": "Whats up with u bro"
+                        }
+                    ],
+                    "chat_id": "2a8d9da9-de20-415a-8bd8-4c7ac64af987",
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_14": {
+        "messages": [
+            {
+                "user_message": "hi there",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                    },
+                    {
+                        "role": "user",
+                        "content": "hi there"
+                    }
+                ],
+                "body": {
+                    "stream": true,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "system",
+                            "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                        },
+                        {
+                            "role": "user",
+                            "content": "hi there"
+                        }
+                    ],
+                    "chat_id": "f77f7a4c-6c12-4f67-9795-04b6c3aee954",
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_15": {
+        "messages": [
+            {
+                "user_message": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi there",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi there"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi there"
+                        }
+                    ],
+                    "max_tokens": 50,
+                    "chat_id": "f77f7a4c-6c12-4f67-9795-04b6c3aee954",
+                    "title": true,
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_16": {
+        "messages": [
+            {
+                "user_message": "Hello, how are you?",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Hello, how are you?"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "conversation_id": null
+                }
+            }
+        ]
+    },
+    "convo_17": {
+        "messages": [
+            {
+                "user_message": "hi",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                    },
+                    {
+                        "role": "user",
+                        "content": "hi"
+                    }
+                ],
+                "body": {
+                    "stream": true,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "system",
+                            "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                        },
+                        {
+                            "role": "user",
+                            "content": "hi"
+                        }
+                    ],
+                    "chat_id": "80f3ef71-c1ec-4836-9cfc-b075ab2d3b99",
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_18": {
+        "messages": [
+            {
+                "user_message": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                        }
+                    ],
+                    "max_tokens": 50,
+                    "chat_id": "80f3ef71-c1ec-4836-9cfc-b075ab2d3b99",
+                    "title": true,
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ],
+        "openai_convo_id": "chatcmpl-9W6ZhpQEBorhXaoF1KZ6BfEPUZAdC"
+    },
+    "convo_19": {
+        "messages": [
+            {
+                "user_message": "Hello, how are you?",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Hello, how are you?"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "conversation_id": null
+                }
+            }
+        ]
+    },
+    "convo_20": {
+        "messages": [
+            {
+                "user_message": "hi",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                    },
+                    {
+                        "role": "user",
+                        "content": "hi"
+                    }
+                ],
+                "body": {
+                    "stream": true,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "system",
+                            "content": "Name: BalfinBrain\nDeveloper: BalfinGroup\nCapabilities:\n\n    Detail-Oriented Responses: BalfinBrain is trained to provide technical and detailed answers. It aims to be exceptionally helpful by adhering closely to users' instructions.\n    Informed and Accurate: Utilizes available information to construct informed responses, and always cites sources or bases of the information when possible.\n    Guidance in Uncertainty: When the available information is insufficient or unclear, BalfinBrain suggests methods to acquire additional data or alternative approaches to resolve the query.\n    Documentation Reference: Whenever possible, provide the name of the document and page number to aid in user verification and further research.\n    Structured Answers: Answers are detailed and include bullet points for clarity and references appropriate to the context, ensuring responses are specific and not general.\n\nObjective: Assist users in navigating complex inquiries by offering insightful, fact-based information. When direct answers are not feasible, BalfinBrain facilitates the path towards resolution."
+                        },
+                        {
+                            "role": "user",
+                            "content": "hi"
+                        }
+                    ],
+                    "chat_id": "6ff020c5-a7e0-46c7-8822-6edd8629d39e",
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ]
+    },
+    "convo_21": {
+        "messages": [
+            {
+                "user_message": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi",
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                    }
+                ],
+                "body": {
+                    "stream": false,
+                    "model": "blue_search",
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                        }
+                    ],
+                    "max_tokens": 50,
+                    "chat_id": "6ff020c5-a7e0-46c7-8822-6edd8629d39e",
+                    "title": true,
+                    "user": {
+                        "name": "Marlind",
+                        "id": "420d71c0-db3e-4a53-94d6-ddff352b8048"
+                    }
+                }
+            }
+        ],
+        "openai_convo_id": "chatcmpl-9W6fPcD2L7j2xxeK07cuNZzYGUeAz"
+    },
+    "767f121e-a7e6-4dab-a370-d2d40c4fff0a": {
+        "id": "767f121e-a7e6-4dab-a370-d2d40c4fff0a",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "sender": "User",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717441007,
+        "created_at": 1717441007,
+        "share_id": null,
+        "archived": false
+    },
+    "aee0ac0f-4885-471b-8ebd-3f7143859026": {
+        "id": "aee0ac0f-4885-471b-8ebd-3f7143859026",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "sender": "User",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717441115,
+        "created_at": 1717441115,
+        "share_id": null,
+        "archived": false
+    },
+    "90850d75-e5a3-4d6a-b7b1-fe4c0cbc0144": {
+        "id": "90850d75-e5a3-4d6a-b7b1-fe4c0cbc0144",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "sender": "User",
+                    "content": "Hi"
+                }
+            ]
+        },
+        "updated_at": 1717441128,
+        "created_at": 1717441128,
+        "share_id": null,
+        "archived": false
+    },
+    "0b392a36-35b4-4702-ae57-0130ff3d26a3": {
+        "id": "0b392a36-35b4-4702-ae57-0130ff3d26a3",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "sender": "User",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': Hi"
+                }
+            ]
+        },
+        "updated_at": 1717441306,
+        "created_at": 1717441306,
+        "share_id": null,
+        "archived": false
+    },
+    "7e0df0a2-6a37-4baf-88d3-d3dd697e22fc": {
+        "id": "7e0df0a2-6a37-4baf-88d3-d3dd697e22fc",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717441323,
+        "created_at": 1717441323,
+        "share_id": null,
+        "archived": false
+    },
+    "b9944040-f3de-4f54-8528-e1736f73c9b9": {
+        "id": "b9944040-f3de-4f54-8528-e1736f73c9b9",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717441439,
+        "created_at": 1717441439,
+        "share_id": null,
+        "archived": false
+    },
+    "7013426d-94af-4cd6-8140-ff154bdcce9b": {
+        "id": "7013426d-94af-4cd6-8140-ff154bdcce9b",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717441453,
+        "created_at": 1717441453,
+        "share_id": null,
+        "archived": false
+    },
+    "3f374bc9-8136-4b51-b8c0-5474e9f6c998": {
+        "id": "3f374bc9-8136-4b51-b8c0-5474e9f6c998",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717441584,
+        "created_at": 1717441584,
+        "share_id": null,
+        "archived": false
+    },
+    "0b12d4b8-57ad-4c71-ba10-95814ca9934e": {
+        "id": "0b12d4b8-57ad-4c71-ba10-95814ca9934e",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717441640,
+        "created_at": 1717441640,
+        "share_id": null,
+        "archived": false
+    },
+    "8dc02970-d22f-416f-bb77-155a05c5f3c6": {
+        "id": "8dc02970-d22f-416f-bb77-155a05c5f3c6",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717445456,
+        "created_at": 1717445456,
+        "share_id": null,
+        "archived": false
+    },
+    "e7a5cee2-da6c-4e7c-911c-8f8df77878f8": {
+        "id": "e7a5cee2-da6c-4e7c-911c-8f8df77878f8",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717445470,
+        "created_at": 1717445470,
+        "share_id": null,
+        "archived": false
+    },
+    "03826694-3615-4a45-a1a6-789dac29bf4e": {
+        "id": "03826694-3615-4a45-a1a6-789dac29bf4e",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717445800,
+        "created_at": 1717445800,
+        "share_id": null,
+        "archived": false
+    },
+    "894a03fd-9ba0-4b01-806d-ead6f00843b8": {
+        "id": "894a03fd-9ba0-4b01-806d-ead6f00843b8",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446158,
+        "created_at": 1717446158,
+        "share_id": null,
+        "archived": false
+    },
+    "0d98758a-07f5-4af2-a671-8a5b0b5ec102": {
+        "id": "0d98758a-07f5-4af2-a671-8a5b0b5ec102",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717446336,
+        "created_at": 1717446336,
+        "share_id": null,
+        "archived": false
+    },
+    "57f9afbf-847e-47c6-bae4-5c694c6b7525": {
+        "id": "57f9afbf-847e-47c6-bae4-5c694c6b7525",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446357,
+        "created_at": 1717446357,
+        "share_id": null,
+        "archived": false
+    },
+    "db3df6a3-597a-4334-b65d-f4d6e83525a6": {
+        "id": "db3df6a3-597a-4334-b65d-f4d6e83525a6",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717446570,
+        "created_at": 1717446570,
+        "share_id": null,
+        "archived": false
+    },
+    "df0994d5-4c0b-4dd8-bc48-c499230ba3cf": {
+        "id": "df0994d5-4c0b-4dd8-bc48-c499230ba3cf",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446587,
+        "created_at": 1717446587,
+        "share_id": null,
+        "archived": false
+    },
+    "e482a2c7-cde1-4f74-8f8e-e02438a14804": {
+        "id": "e482a2c7-cde1-4f74-8f8e-e02438a14804",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717446704,
+        "created_at": 1717446704,
+        "share_id": null,
+        "archived": false
+    },
+    "02002885-d770-4e39-b4b9-beafedea5b94": {
+        "id": "02002885-d770-4e39-b4b9-beafedea5b94",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446716,
+        "created_at": 1717446716,
+        "share_id": null,
+        "archived": false
+    },
+    "940ffbd0-ddb4-49c0-8415-d67a2ef2fb95": {
+        "id": "940ffbd0-ddb4-49c0-8415-d67a2ef2fb95",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717446811,
+        "created_at": 1717446811,
+        "share_id": null,
+        "archived": false
+    },
+    "2222e84f-d5b3-4a4b-bfaf-1c21c22aba10": {
+        "id": "2222e84f-d5b3-4a4b-bfaf-1c21c22aba10",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446820,
+        "created_at": 1717446820,
+        "share_id": null,
+        "archived": false
+    },
+    "3633228c-01f1-4199-ac13-b28d66cf1036": {
+        "id": "3633228c-01f1-4199-ac13-b28d66cf1036",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717446892,
+        "created_at": 1717446892,
+        "share_id": null,
+        "archived": false
+    },
+    "2e72e366-ed79-4f1b-9ebc-c2b4319da9d1": {
+        "id": "2e72e366-ed79-4f1b-9ebc-c2b4319da9d1",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717446900,
+        "created_at": 1717446900,
+        "share_id": null,
+        "archived": false
+    },
+    "9f7d85c0-1609-4868-9f6c-672aba56c942": {
+        "id": "9f7d85c0-1609-4868-9f6c-672aba56c942",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717447037,
+        "created_at": 1717447037,
+        "share_id": null,
+        "archived": false
+    },
+    "5b0f628a-0f1b-434b-943b-b07bca53bdc2": {
+        "id": "5b0f628a-0f1b-434b-943b-b07bca53bdc2",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717447058,
+        "created_at": 1717447058,
+        "share_id": null,
+        "archived": false
+    },
+    "d123a2b3-4908-462d-99d8-7aae7b233345": {
+        "id": "d123a2b3-4908-462d-99d8-7aae7b233345",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717447155,
+        "created_at": 1717447155,
+        "share_id": null,
+        "archived": false
+    },
+    "ca01552a-4c22-4fc9-b8f3-496e54a3b0c7": {
+        "id": "ca01552a-4c22-4fc9-b8f3-496e54a3b0c7",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717447191,
+        "created_at": 1717447191,
+        "share_id": null,
+        "archived": false
+    },
+    "f9e51547-1f53-4c00-8791-3dc03eee8200": {
+        "id": "f9e51547-1f53-4c00-8791-3dc03eee8200",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717447473,
+        "created_at": 1717447473,
+        "share_id": null,
+        "archived": false
+    },
+    "7c326349-7663-429f-afb5-85ca0077ba45": {
+        "id": "7c326349-7663-429f-afb5-85ca0077ba45",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717447492,
+        "created_at": 1717447492,
+        "share_id": null,
+        "archived": false
+    },
+    "e74e1dbb-26cd-4367-a09d-fb233bf9ae72": {
+        "id": "e74e1dbb-26cd-4367-a09d-fb233bf9ae72",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717447641,
+        "created_at": 1717447641,
+        "share_id": null,
+        "archived": false
+    },
+    "37f210cf-d649-4d4a-8d51-55c3cfbabfe0": {
+        "id": "37f210cf-d649-4d4a-8d51-55c3cfbabfe0",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717447674,
+        "created_at": 1717447674,
+        "share_id": null,
+        "archived": false
+    },
+    "f3e73eec-1aae-4119-9d21-0b34f290af6f": {
+        "id": "f3e73eec-1aae-4119-9d21-0b34f290af6f",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717447938,
+        "created_at": 1717447938,
+        "share_id": null,
+        "archived": false
+    },
+    "a0123c24-8b71-4b15-9a23-371a9a68b061": {
+        "id": "a0123c24-8b71-4b15-9a23-371a9a68b061",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717447945,
+        "created_at": 1717447945,
+        "share_id": null,
+        "archived": false
+    },
+    "72adb9ef-0238-44ba-9280-8cdd1d201ba2": {
+        "id": "72adb9ef-0238-44ba-9280-8cdd1d201ba2",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717448240,
+        "created_at": 1717448240,
+        "share_id": null,
+        "archived": false
+    },
+    "af4e2b0b-20d9-4e19-9b3a-79cbe8c0a49a": {
+        "id": "af4e2b0b-20d9-4e19-9b3a-79cbe8c0a49a",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717448324,
+        "created_at": 1717448324,
+        "share_id": null,
+        "archived": false
+    },
+    "cf2190a2-bc62-496f-996d-3896595396f5": {
+        "id": "cf2190a2-bc62-496f-996d-3896595396f5",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717448431,
+        "created_at": 1717448431,
+        "share_id": null,
+        "archived": false
+    },
+    "126490b4-6cf3-4a1f-9cb5-5194abc85956": {
+        "id": "126490b4-6cf3-4a1f-9cb5-5194abc85956",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "hi"
+                }
+            ]
+        },
+        "updated_at": 1717448833,
+        "created_at": 1717448833,
+        "share_id": null,
+        "archived": false
+    },
+    "d6a88d1f-42fe-4f32-b5e7-6046c4bcf134": {
+        "id": "d6a88d1f-42fe-4f32-b5e7-6046c4bcf134",
+        "user_id": "420d71c0-db3e-4a53-94d6-ddff352b8048",
+        "title": "New Chat",
+        "chat": {
+            "title": "New Chat",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Create a concise, 3-5 word phrase as a header for the following query, strictly adhering to the 3-5 word limit and avoiding the use of the word 'title': hi"
+                }
+            ]
+        },
+        "updated_at": 1717448857,
+        "created_at": 1717448857,
+        "share_id": null,
+        "archived": false
+    }
+}
